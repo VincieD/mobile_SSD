@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 21 12:01:40 2017
 
-@author: GustavZ
-"""
 import numpy as np
 import os
 import tensorflow as tf
